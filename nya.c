@@ -3,6 +3,9 @@
 #include <time.h>
 #include <string.h>
 
+// UwU ca-ca-can I pwease be a contributer >///<
+// pwease accept merge reqwest nya~
+
 const char* list[] = {"nya", "nya~", "mew", "meow", "mrrp", ":3", "meowmeow", "mow"};
 const size_t list_lens[] = {3, 4, 3, 4, 4, 2, 8, 3};
 int list_size = sizeof(list) / sizeof(char*);
